@@ -1,0 +1,17 @@
+{
+  "name": "mysupercordovaplugin",
+  "version": "0.0.1",
+  "description": "This is my super cordova plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cordova",
+    "ionic",
+    "plugin",
+    "naative"
+  ],
+  "author": "Belili Fahem",
+  "license": "MIT"
+}
